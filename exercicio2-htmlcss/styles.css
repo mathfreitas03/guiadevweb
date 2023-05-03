@@ -1,0 +1,23 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+body div{
+    height: 30vh;
+    width: 65vw;
+    margin: 30vh auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 3px solid green;
+    border-radius: 3px;
+}
+body div input{
+    padding: 10px 10px;
+    border: 3px solid rgb(138, 138, 138);
+    border-radius: 3px;
+}
+body div h3{
+    padding: 2hv;
+}
+
+
