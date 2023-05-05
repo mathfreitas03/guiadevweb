@@ -4,17 +4,17 @@
   <h1 align="center">Guia desenvolvimento web</h1>
 </p>
 
-## :dart: Conceito
+## 🎯 Conceito
 
-> Este repositório tem o objetivo de ajudar como um simples guia para o desenvilmento web, ajudando com dicas de conteúdos e atividades para praticar a programação. Pegando os conceitos e técnicas muito úteis desde a base
+> Este repositório tem o objetivo de ajudar como um simples guia para o desenvolvilmento web, ajudando com dicas de conteúdos e atividades para praticar a programação. Pegando os conceitos e técnicas muito úteis desde a base
 ## 💡 Objetivos
 
-> O projeto tem o objetivo principal de ensinar e desenvolver os participantes do colmeia, porém não se limita somente a esse publico, está aberto a todos.
+> O projeto tem o objetivo principal de ensinar e desenvolver os participantes do colmeia, porém não se limita somente a esse público, está aberto a todos.
 - O foco é para pessoas iniciantes na área e que buscam uma recomendação de conteúdos
-- Tambem buscamos a colaboração da comunidade como um projeto open source já que a iniciativa vem de um grupo de extensão com foco em código livre 
+- Também buscamos a colaboração da comunidade como um projeto open source já que a iniciativa vem de um grupo de extensão com foco em código livre 
 ## 🐝 Colmeia
 ### Grupo de extensão em software e hardware livre da UDESC CCT
-> Com o objetivo da disseminação de conhecimento em software e hardware livres o Colmeia, grupo de extensão da universidade do estado de santa catarina, ministra aulas e minicursos de diversos temas, visitamos escolas e outras universidades com o objetivo de apresentar o Colmeia e toda a ideologia do grupo, além disso temos múltiplos outros projetos internos variados.
+> Com o objetivo da disseminação de conhecimento em software e hardware livres, o Colmeia, grupo de extensão da universidade do estado de Santa Catarina, ministra aulas e minicursos de diversos temas, visitamos escolas e outras universidades com o objetivo de apresentar o Colmeia e toda a ideologia do grupo, além disso temos múltiplos outros projetos internos variados.
 
 <sub> <strong>Siga o Colmeia nas redes sociais para acompanhar mais conteúdos: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ColmeiaUDESC)
@@ -26,7 +26,7 @@
 </sub>
 
 ## 💭 Como este repositório está organizado
-> Nesse repositório temos os exercicios divididos por pastas, dentro de cada pasta (de exercicio) temos um arquivo base para o começar a atividade e o enunciado do exercicio logo abaixo. E no readme principal ficam os conteúdos recomendados separados por assunto.
+> Nesse repositório temos os exercícios divididos por pastas, dentro de cada pasta (de exercício) temos um arquivo base para o começar a atividade e o enunciado do exercício logo abaixo. E no readme principal ficam os conteúdos recomendados separados por assunto.
 ## 🤝 Como contribuir?
-> Viu alguma coisa errada ou quer propor uma melhoria para esse projeto? Pode criar uma issue explicando o seu caso ou então você pode criar um fork desse repositório, arrumar o que precisar no seu fork e criar um pull request explicando o que foi mudado e porque.
+> Viu alguma coisa errada ou quer propor uma melhoria para esse projeto? Pode criar uma issue explicando o seu caso ou então você pode criar um fork desse repositório, arrumar o que precisar no seu fork e criar um pull request explicando o que foi mudado e porquê.
 > Não tenha medo! Se precisar de ajuda, pode entrar no nosso discord, procurar a seção sobre este projeto e mandar uma mensagem por lá.
